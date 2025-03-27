@@ -18,7 +18,7 @@ This website provides a comprehensive listing of courses offered by the **Kerala
 
 1. **Clone the Repository:**  
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:jishnu1018/KBA-Courses.git
    ```
 
 2. **Docker Setup:**  
